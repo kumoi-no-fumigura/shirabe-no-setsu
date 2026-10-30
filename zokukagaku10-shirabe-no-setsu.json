@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shirabe-no-setsu",
  "yomi": "しらべのせつ",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "天保8年（1837）8月",
+  "author": "八田知紀（1799〜1873）",
+  "desc": "歌は理屈を述べるものではなく「調ぶる」ものだという香川景樹の教えを受け、調べの根本を嗟嘆の声の響きに求めて論じた小論。"
+ },
  "editions": [
   {
    "pid": "993388",
